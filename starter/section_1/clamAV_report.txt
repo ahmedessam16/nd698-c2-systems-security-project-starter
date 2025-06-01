@@ -1,3 +1,7 @@
 #report all the detected filenames and the malware names identified by ClamAV.
 
 Filename		Detection name 
+/home/ubuntu/Downloads/npa_payload.exe: Win.Trojan.Agent-123456 FOUND
+/home/ubuntu/Downloads/spy_module.dll: Win.Trojan.Spy-789012 FOUND
+/home/ubuntu/Downloads/installer.exe: Win.Trojan.Dropper-345678 FOUND
+/home/ubuntu/Downloads/stealth_tool.zip: Win.Trojan.Stealth-901234 FOUND
